@@ -25,7 +25,7 @@ public class oops {
     public static void main(String args[]) {
         Pen pen1 = new Pen("blue", "ball");
         // pen1 calling the print info function tht contains their own functions to
-        // print
+
         pen1.printinfo();
     }
 }
