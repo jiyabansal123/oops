@@ -1,0 +1,1 @@
+  result += Math.pow(digit, digits);
